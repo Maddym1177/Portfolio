@@ -3,10 +3,39 @@
     padding: 0;
 }
 
-h1{
+/* Nav */
+.navText {
     color: orangered;
+    size: 20px;
+    display: flex;
+    justify-content: flex-end;
 }
 
-h2{
-    color: orange;
+/* Home */
+#Home {
+    height: 90vh;
+    /* background-color: yellow; */
+}
+
+#myDetails {
+    font-size: 20px;
+    
+}
+
+/* About */
+#About {
+    height: 90vh;
+    background-color: black;
+}
+
+/* Projects */
+#Projects {
+    height: 90vh;
+    background-color: yellow;
+}
+
+/* Contact */
+#Contact {
+    height: 90vh;
+    background-color: black;
 }

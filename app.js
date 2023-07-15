@@ -1,1 +1,11 @@
-document.querySelector('h2').innerHTML = "Mane"
+
+// My portfolio
+ 
+// navbar
+
+document.querySelector('a').style.color = "orangered";
+
+// Home
+document.getElementById('myName').style.color = "orangered";
+// About
+
