@@ -1,1 +1,1 @@
-document.querySelector('h1').innerHTML = "Mandar";
+document.querySelector('h2').innerHTML = "Mane"
